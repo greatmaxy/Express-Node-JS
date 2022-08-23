@@ -10,3 +10,5 @@ module.exports = {john, peter};
 
 const names = require('./t2.js')
 console.log(names);
+
+//doing require('./t1.js') will call the fill regardless
